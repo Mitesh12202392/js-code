@@ -34,4 +34,6 @@ console.log("The value of sym is ", sym);
 let bigInt = BigInt("123456789012345678901234567890");
 console.log("The value of bigInt is ", bigInt);
 
-// Reference Data Types in JS
+console.log(typeof null); // returns object
+console.log(typeof undefined) // returns undefined
+
