@@ -1,0 +1,5 @@
+console.log(typeof BigInt)
+console.log(typeof Number)
+console.log(typeof Symbol)
+console.log(typeof String)
+console.log(typeof Boolean)
