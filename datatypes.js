@@ -16,7 +16,7 @@ console.log(str1, str2);
 // 3. Boolean
 let bool1 = true;
 let bool2 = false;
-console.log("The value of bool1 is ", bool1, " and the value of bool2 is ", bool2);
+console.log("The value of bool 1 is ", bool1, " and the value of bool 2 is ", bool2);
 
 // 4. Undefined
 let undef;
@@ -36,3 +36,8 @@ console.log("The value of bigInt is ", bigInt);
 
 console.log(typeof null); // returns object
 console.log(typeof undefined) // returns undefined
+console.log(typeof BigInt) //returns function
+console.log(typeof Number) //returns function
+console.log(typeof Symbol) //returns function
+console.log(typeof String) //returns function
+console.log(typeof Boolean) //returns function
